@@ -1,0 +1,4363 @@
+[
+  {
+    "from_key": "escape",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "escape",
+      "escape",
+      "escape",
+      "escape"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f1",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f1",
+      "f1",
+      "f1",
+      "f1"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f2",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f2",
+      "f2",
+      "f2",
+      "f2"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f3",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f3",
+      "f3",
+      "f3",
+      "f3"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f4",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f4",
+      "f4",
+      "f4",
+      "f4"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f5",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f5",
+      "f5",
+      "f5",
+      "f5"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f6",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f6",
+      "f6",
+      "f6",
+      "f6"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f7",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f7",
+      "f7",
+      "f7",
+      "f7"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f8",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f8",
+      "f8",
+      "f8",
+      "f8"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f9",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f9",
+      "f9",
+      "f9",
+      "f9"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f10",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f10",
+      "f10",
+      "f10",
+      "f10"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f11",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f11",
+      "f11",
+      "f11",
+      "f11"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f12",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f12",
+      "f12",
+      "f12",
+      "f12"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "non_us_backslash",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "grave_accent_and_tilde",
+      "grave_accent_and_tilde",
+      "non_us_backslash",
+      "non_us_backslash"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "1",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "2",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "2",
+      "2",
+      "2",
+      "2"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "3",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "3",
+      "3",
+      "3",
+      "3"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "4",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "4",
+      "4",
+      "4",
+      "4"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "5",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "5",
+      "5",
+      "5",
+      "5"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "6",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "6",
+      "6",
+      "6",
+      "6"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "7",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "7",
+      "7",
+      "7",
+      "7"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "8",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "8",
+      "8",
+      "8",
+      "keypad_slash"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "9",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "9",
+      "9",
+      "9",
+      "keypad_asterisk"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "0",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "hyphen",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "hyphen",
+      "hyphen",
+      "hyphen",
+      "hyphen"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "equal_sign",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "equal_sign",
+      "equal_sign",
+      "equal_sign",
+      "equal_sign"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "delete_or_backspace",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "delete_or_backspace",
+      "delete_or_backspace",
+      "delete_or_backspace",
+      "delete_or_backspace"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_option"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "tab",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "tab",
+      "tab",
+      "tab",
+      "tab"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "q",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "k",
+      "k",
+      "k",
+      "k"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "w",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "u",
+      "u",
+      "hyphen",
+      "u"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "e",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "keypad_8",
+      "keypad_7",
+      "open_bracket",
+      "up_arrow"
+    ],
+    "to_mods": [
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "r",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "period",
+      "period",
+      "close_bracket",
+      "period"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "t",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "keypad_equal_sign",
+      "keypad_4",
+      "6",
+      "slash"
+    ],
+    "to_mods": [
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "y",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "v",
+      "v",
+      "1",
+      "keypad_period"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "u",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "g",
+      "g",
+      "comma",
+      "keypad_7"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "i",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "c",
+      "c",
+      "period",
+      "keypad_8"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "o",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "l",
+      "l",
+      "equal_sign",
+      "keypad_9"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "p",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "j",
+      "j",
+      "7",
+      "keypad_hyphen"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "open_bracket",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "f",
+      "f",
+      "keypad_hyphen",
+      "keypad_equal_sign"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "close_bracket",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "slash",
+      "slash",
+      "slash",
+      "slash"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "return_or_enter",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "return_or_enter",
+      "return_or_enter",
+      "return_or_enter",
+      "return_or_enter"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "a",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "h",
+      "h",
+      "backslash",
+      "h"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "s",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "i",
+      "i",
+      "slash",
+      "left_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "d",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "e",
+      "e",
+      "open_bracket",
+      "down_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "f",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "a",
+      "a",
+      "close_bracket",
+      "right_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "g",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "o",
+      "o",
+      "8",
+      "o"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "h",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "d",
+      "d",
+      "slash",
+      "keypad_comma"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "j",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "t",
+      "t",
+      "9",
+      "keypad_4"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "k",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "r",
+      "r",
+      "0",
+      "keypad_5"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "l",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "n",
+      "n",
+      "hyphen",
+      "keypad_6"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "semicolon",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "s",
+      "s",
+      "semicolon",
+      "keypad_plus"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "quote",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "keypad_9",
+      "slash",
+      "2",
+      "slash"
+    ],
+    "to_mods": [
+      [
+        "left_shift"
+      ],
+      [],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "z",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "x",
+      "x",
+      "3",
+      "x"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "x",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "y",
+      "y",
+      "4",
+      "y"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "c",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "keypad_asterisk",
+      "keypad_slash",
+      "backslash",
+      "slash"
+    ],
+    "to_mods": [
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "v",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "comma",
+      "grave_accent_and_tilde",
+      "keypad_5",
+      "comma"
+    ],
+    "to_mods": [
+      [],
+      [
+        "shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "b",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "q",
+      "q",
+      "keypad_6",
+      "q"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "n",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "b",
+      "b",
+      "equal_sign",
+      "semicolon"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      ["shift"]
+    ]
+  },
+  {
+    "from_key": "m",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "p",
+      "p",
+      "5",
+      "keypad_1"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "comma",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "w",
+      "w",
+      "quote",
+      "keypad_2"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_shift"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "period",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "m",
+      "m",
+      "quote",
+      "keypad_3"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "slash",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "z",
+      "z",
+      "semicolon",
+      "keypad_enter"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "spacebar",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "spacebar",
+      "spacebar",
+      "spacebar",
+      "keypad_0"
+    ],
+    "to_mods": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "up_arrow",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "up_arrow",
+      "up_arrow",
+      "up_arrow",
+      "up_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_option"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "down_arrow",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "down_arrow",
+      "down_arrow",
+      "down_arrow",
+      "down_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_option"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "left_arrow",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "left_arrow",
+      "left_arrow",
+      "left_arrow",
+      "left_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_option"
+      ],
+      []
+    ]
+  },
+  {
+    "from_key": "right_arrow",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "left_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "fn"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "right_shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "right_arrow",
+      "right_arrow",
+      "right_arrow",
+      "right_arrow"
+    ],
+    "to_mods": [
+      [],
+      [
+        "left_shift"
+      ],
+      [
+        "left_option"
+      ],
+      []
+    ]
+  }
+]
