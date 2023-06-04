@@ -2016,19 +2016,28 @@
           "right_command",
           "right_option"
         ]
+      },
+      {
+        "mandatory": [
+          "left_shift",
+          "command"
+        ],
+        "optional": []
       }
     ],
     "to_keys": [
       "period",
       "period",
       "close_bracket",
+      "period",
       "period"
     ],
     "to_mods": [
       [],
       [],
       [],
-      []
+      [],
+      ["left_shift", "left_command"]
     ]
   },
   {
@@ -2626,7 +2635,9 @@
       [
         "left_shift"
       ],
-      [],
+      [
+        "left_option"
+      ],
       []
     ]
   },
@@ -2684,7 +2695,7 @@
       "h",
       "h",
       "backslash",
-      "h"
+      "backslash"
     ],
     "to_mods": [
       [],
