@@ -1,5 +1,425 @@
 [
   {
+    "from_key": "f1",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "display_brightness_decrement",
+      "f1"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f2",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "display_brightness_increment",
+      "f2"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f3",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "mission_control",
+      "f3"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f4",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "spotlight",
+      "f4"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f5",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "dictation",
+      "f5"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f6",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "spotlight",
+      "f6"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f7",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "rewind",
+      "f7"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f8",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "play_or_pause",
+      "f8"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f9",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "fast_forward",
+      "f9"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f10",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "mute",
+      "f10"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f11",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "volume_decrement",
+      "f11"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
+    "from_key": "f12",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "volume_increment",
+      "f12"
+    ],
+    "to_mods": [
+      [],
+      []
+    ]
+  },
+  {
     "from_key": "1",
     "from_mods": [
       {
