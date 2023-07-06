@@ -420,7 +420,7 @@
     ]
   },
   {
-    "from_key": "1",
+    "from_key": "non_us_backslash",
     "from_mods": [
       {
         "mandatory": [],
@@ -431,117 +431,12 @@
           "right_command",
           "right_option"
         ]
-      },
-      {
-        "mandatory": [
-          "left_shift"
-        ],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
-      },
-      {
-        "mandatory": [
-          "fn"
-        ],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
-      },
-      {
-        "mandatory": [
-          "right_shift"
-        ],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
       }
     ],
     "to_keys": [
-      "1",
-      "1",
-      "1",
-      "1"
+      "grave_accent_and_tilde"
     ],
     "to_mods": [
-      [],
-      [],
-      [],
-      []
-    ]
-  },
-  {
-    "from_key": "2",
-    "from_mods": [
-      {
-        "mandatory": [],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
-      },
-      {
-        "mandatory": [
-          "left_shift"
-        ],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
-      },
-      {
-        "mandatory": [
-          "fn"
-        ],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
-      },
-      {
-        "mandatory": [
-          "right_shift"
-        ],
-        "optional": [
-          "left_control",
-          "left_command",
-          "left_option",
-          "right_command",
-          "right_option"
-        ]
-      }
-    ],
-    "to_keys": [
-      "2",
-      "2",
-      "2",
-      "2"
-    ],
-    "to_mods": [
-      [],
-      [],
-      [],
       []
     ]
   },
@@ -1573,7 +1468,10 @@
       [],
       [],
       [],
-      ["left_shift", "left_command"]
+      [
+        "left_shift",
+        "left_command"
+      ]
     ]
   },
   {
@@ -3046,7 +2944,9 @@
     "from_key": "c",
     "from_mods": [
       {
-        "mandatory": ["left_command"],
+        "mandatory": [
+          "left_command"
+        ],
         "optional": []
       },
       {
@@ -3317,7 +3217,9 @@
       [
         "left_shift"
       ],
-      ["shift"]
+      [
+        "shift"
+      ]
     ]
   },
   {
