@@ -420,6 +420,41 @@
     ]
   },
   {
+    "from_key": "pause",
+    "from_mods": [
+      {
+        "mandatory": [],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      },
+      {
+        "mandatory": [
+          "shift"
+        ],
+        "optional": [
+          "left_control",
+          "left_command",
+          "left_option",
+          "right_command",
+          "right_option"
+        ]
+      }
+    ],
+    "to_keys": [
+      "a",
+      "v"
+    ],
+    "to_mods": [
+      ["left_command", "left_shift"],
+      ["left_command", "left_shift"]
+    ]
+  },
+  {
     "from_key": "non_us_backslash",
     "from_mods": [
       {
@@ -3493,20 +3528,9 @@
         "mandatory": [],
         "optional": [
           "left_control",
-          "left_command",
           "left_option",
-          "right_command",
-          "right_option"
-        ]
-      },
-      {
-        "mandatory": [
-          "left_shift"
-        ],
-        "optional": [
-          "left_control",
           "left_command",
-          "left_option",
+          "left_shift",
           "right_command",
           "right_option"
         ]
@@ -3517,8 +3541,9 @@
         ],
         "optional": [
           "left_control",
-          "left_command",
           "left_option",
+          "left_command",
+          "left_shift",
           "right_command",
           "right_option"
         ]
@@ -3539,13 +3564,11 @@
     "to_keys": [
       "spacebar",
       "spacebar",
-      "spacebar",
       "keypad_0"
     ],
     "to_mods": [
       [],
-      [],
-      [],
+      ["left_option"],
       []
     ]
   },
